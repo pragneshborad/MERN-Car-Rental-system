@@ -17,7 +17,7 @@ The Car Rental project is a comprehensive MERN stack web application tailored fo
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/pjyotianwar/CarRental.git
+
 ```
 
 2. Install dependencies for both the server and client:
